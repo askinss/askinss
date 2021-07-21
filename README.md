@@ -7,4 +7,5 @@
 - 👍🏿 I love tools like Ansible, CloudFormation..
 - 🤓 I love technologies like Kubernetes, Docker, Elk Stack.
 - 📫 How to reach me: faskinss@gmail.com
-- ⚡ Fun fact: I love to explore new places real life and virtual and a faithful disciple of Jesus ♰
+- ⚡ Fun fact: I love to explore new places real life and virtual.
+- A faithful disciple of Jesus ♰
