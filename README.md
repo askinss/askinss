@@ -8,4 +8,4 @@
 - 🤓 I love technologies like Kubernetes, Docker, Elk Stack.
 - 📫 How to reach me: faskinss@gmail.com
 - ⚡ Fun fact: I love to explore new places real life and virtual.
-- A faithful disciple of Jesus ♰
+- A faithless disciple of Jesus ♰
